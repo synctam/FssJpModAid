@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FsbFontChanger", "FsbFontChanger\FsbFontChanger.csproj", "{4950E8BB-A0F3-4D0F-BFE5-B568EB88A029}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FsbFontLib", "FsbFontLib\FsbFontLib.csproj", "{A695591A-2782-4F7E-A4B6-2B2264043369}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FssJpMod", "FssJpMod\FssJpMod.csproj", "{AAB5016D-BDE8-4B7D-8BFA-C06F78428300}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FssJpModLib", "FssJpModLib\FssJpModLib.csproj", "{69A98B0C-9CE4-4C65-B066-8747FEC22650}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FsbCommonLib", "FsbCommonLib\FsbCommonLib.csproj", "{E1B14DCC-E41C-4512-AE01-AB24CD94FDB7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FssSheetMaker", "FssSheetMaker\FssSheetMaker.csproj", "{91FE8AB6-24F9-459B-92F7-2ED741EC499D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4950E8BB-A0F3-4D0F-BFE5-B568EB88A029}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4950E8BB-A0F3-4D0F-BFE5-B568EB88A029}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4950E8BB-A0F3-4D0F-BFE5-B568EB88A029}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4950E8BB-A0F3-4D0F-BFE5-B568EB88A029}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A695591A-2782-4F7E-A4B6-2B2264043369}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A695591A-2782-4F7E-A4B6-2B2264043369}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A695591A-2782-4F7E-A4B6-2B2264043369}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A695591A-2782-4F7E-A4B6-2B2264043369}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AAB5016D-BDE8-4B7D-8BFA-C06F78428300}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AAB5016D-BDE8-4B7D-8BFA-C06F78428300}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AAB5016D-BDE8-4B7D-8BFA-C06F78428300}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AAB5016D-BDE8-4B7D-8BFA-C06F78428300}.Release|Any CPU.Build.0 = Release|Any CPU
+		{69A98B0C-9CE4-4C65-B066-8747FEC22650}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69A98B0C-9CE4-4C65-B066-8747FEC22650}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69A98B0C-9CE4-4C65-B066-8747FEC22650}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69A98B0C-9CE4-4C65-B066-8747FEC22650}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E1B14DCC-E41C-4512-AE01-AB24CD94FDB7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1B14DCC-E41C-4512-AE01-AB24CD94FDB7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1B14DCC-E41C-4512-AE01-AB24CD94FDB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1B14DCC-E41C-4512-AE01-AB24CD94FDB7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{91FE8AB6-24F9-459B-92F7-2ED741EC499D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91FE8AB6-24F9-459B-92F7-2ED741EC499D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91FE8AB6-24F9-459B-92F7-2ED741EC499D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91FE8AB6-24F9-459B-92F7-2ED741EC499D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2D9E02EC-6BF0-4C11-821B-1FC5D8ED8FC7}
+	EndGlobalSection
+EndGlobal
